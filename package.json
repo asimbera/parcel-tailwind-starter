@@ -2,11 +2,15 @@
   "name": "parcel-tailwind-starter",
   "version": "1.0.0",
   "description": "A template for static site using Tailwind.css and Parcel bundler.",
-  "main": "index.js",
+  "source": "./src/index.pug",
   "repository": "https://github.com/asimbera/parcel-tailwind-starter.git",
   "author": "Asim Bera <asimbera@outlook.in> (https://asimbera.pages.dev/)",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "devDependencies": {
     "autoprefixer": "^10.3.4",
     "parcel": "^2.0.0-rc.0",
