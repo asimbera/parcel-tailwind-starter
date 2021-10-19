@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.3.7",
-    "parcel": "^2.0.0-rc.0",
+    "parcel": "^2.0.0",
     "postcss": "^8.3.9",
     "tailwindcss": "^2.2.17"
   }
