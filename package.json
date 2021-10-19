@@ -12,7 +12,7 @@
     "build": "parcel build"
   },
   "devDependencies": {
-    "autoprefixer": "^10.3.4",
+    "autoprefixer": "^10.3.7",
     "parcel": "^2.0.0-rc.0",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.17"
