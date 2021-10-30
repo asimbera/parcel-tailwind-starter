@@ -1,4 +1,4 @@
-# Parcel Tailwind Started
+# Parcel Tailwind Starter
 
 Template for a web project equipped with Tailwind CSS.
 
